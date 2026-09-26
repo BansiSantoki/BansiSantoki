@@ -71,6 +71,27 @@ I enjoy working with Flutter, React, Firebase, Node.js and modern web technologi
 ---
 
 ## 🚀 Featured Projects
+---
+
+### 🕉️ Sanatan Scroll — Spiritual Wisdom App
+
+**Tech Stack:** Flutter, Dart, Firebase, Firestore
+
+A spiritual wisdom application designed to provide users with daily spiritual content and meaningful reading experiences.
+
+**Key Features:**
+
+- Firebase Authentication
+- Daily spiritual wisdom
+- Bhagavad Gita content
+- Ramayana & Upanishads content
+- Saved content
+- Reading streaks
+- Responsive Flutter UI
+
+🔗 **[View Project](https://github.com/BansiSantoki/sanatan-scroll)**
+
+---
 
 ### 🚗 Express Car — Car Rental App
 
@@ -79,11 +100,14 @@ I enjoy working with Flutter, React, Firebase, Node.js and modern web technologi
 A role-based car rental application with booking, tracking and admin management features.
 
 **Key Features:**
+
 - User, Owner & Admin modules
 - Firebase Authentication
 - Firestore database
 - Real-time location tracking
 - Car booking system
+
+🔗 **[View Project](https://github.com/BansiSantoki/EXPRESS_CAR)**
 
 ---
 
@@ -94,12 +118,15 @@ A role-based car rental application with booking, tracking and admin management 
 A campus food ordering platform designed for students and food stalls.
 
 **Key Features:**
+
 - Authentication
 - Food ordering
 - Cart management
 - Order management
 - REST APIs
 - Responsive UI
+
+🔗 **[View Project](https://github.com/BansiSantoki/Campus_Crave)**
 
 ---
 
@@ -110,12 +137,15 @@ A campus food ordering platform designed for students and food stalls.
 A Flutter-based e-book application for browsing and reading books.
 
 **Key Features:**
+
 - Book browsing
 - Reading features
 - Search functionality
 - Firebase Authentication
 - Firestore database
 - Responsive UI
+
+🔗 **[View Project](https://github.com/BansiSantoki/e_book_ap)**
 
 ---
 
@@ -124,6 +154,17 @@ A Flutter-based e-book application for browsing and reading books.
 **Tech Stack:** Kotlin, Android, Firebase
 
 An Android e-commerce application with product listing, cart and order management.
+
+**Key Features:**
+
+- Product listing
+- Product details
+- Shopping cart
+- Order management
+- Firebase integration
+- Android application
+
+🔗 **[View Project](https://github.com/BansiSantoki/glow_cart_app)**
 
 ---
 
