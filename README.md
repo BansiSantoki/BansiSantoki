@@ -146,26 +146,6 @@ A Flutter-based e-book application for browsing and reading books.
 
 🔗 **[View Project](https://github.com/BansiSantoki/e_book_ap)**
 
----
-
-### 🛍️ The Glow Cart — Android E-Commerce App
-
-**Tech Stack:** Kotlin, Android, Firebase
-
-An Android e-commerce application with product listing, cart and order management.
-
-**Key Features:**
-
-- Product listing
-- Product details
-- Shopping cart
-- Order management
-- Firebase integration
-- Android application
-
-🔗 **[View Project](https://github.com/BansiSantoki/glow_cart_app)**
-
----
 
 ## 🎯 Areas of Interest
 
