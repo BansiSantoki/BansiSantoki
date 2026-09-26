@@ -176,21 +176,25 @@ An Android e-commerce application with product listing, cart and order managemen
 - ⚡ Real-Time Applications
 - 🎨 UI/UX Design
 
----
-
 ## 📊 GitHub Stats
 
-![Bansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BansiSantoki&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BansiSantoki&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=BansiSantoki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BansiSantoki&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-## 📈 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BansiSantoki&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 ---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=BansiSantoki&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
 
 ## 🤝 Let's Connect
 
