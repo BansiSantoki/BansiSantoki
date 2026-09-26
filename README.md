@@ -166,8 +166,6 @@ A Flutter-based e-book application for browsing and reading books.
 
 </div>
 
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
