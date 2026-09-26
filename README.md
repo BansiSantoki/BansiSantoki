@@ -71,7 +71,6 @@ I enjoy working with Flutter, React, Firebase, Node.js and modern web technologi
 ---
 
 ## 🚀 Featured Projects
----
 
 ### 🕉️ Sanatan Scroll — Spiritual Wisdom App
 
